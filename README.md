@@ -12,7 +12,7 @@ The logic rules are:
 
 ### 3. Transactions Manager
 The progrem gets a group of transactions and check if it's serializable schedule. If it is-the output will return the equal serial schedule.
-This program includes using Graphs and Topological Sort.
+This program includes using of Graphs and Topological Sort.
 
 
 
